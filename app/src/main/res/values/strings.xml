@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPS-Test</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude_sekarang_adalah">Latitude Sekarang Adalah</string>
+    <string name="longitude_sekarang_adalah">Longitude sekarang Adalah</string>
+</resources>
