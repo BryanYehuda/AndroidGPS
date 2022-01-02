@@ -1,4 +1,4 @@
-# AndroidGPS
+# Android GPS
 
 ## English
 This repository is useful for storing the code needed to create a GPS application that can find out the position of Latitude and Longitude.
